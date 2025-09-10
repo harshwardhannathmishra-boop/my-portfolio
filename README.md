@@ -1,13 +1,15 @@
-# My Portfolio
+# Rounak Mishra's Portfolio
 
-This is my personal portfolio website created using GitHub Pages.
+This is the personal portfolio website of Rounak Mishra, a Computer Science & Engineering student passionate about web development and emerging technologies.
 
-## Sections
+## Features
+- About Me section
+- Contact information
+- Clean and responsive design
 
-- About
-- Gmail harshwardhannathmishra@gmail.com
-- linkedin www.linkedin.com/in/harshwardhannathmishra
-- Projects
-- Contact
+## Tech Stack
+- HTML, CSS, JavaScript
 
-Feel free to explore and reach out to me!
+## Connect with me
+- [GitHub](https://github.com/rounakmishra06)
+- Email: rounak@example.com
