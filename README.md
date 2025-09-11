@@ -1,15 +1,15 @@
-# Rounak Mishra's Portfolio
+# Harsh Wardhan Nath Mishra's Portfolio
 
-This is the personal portfolio website of Rounak Mishra, a Computer Science & Engineering student passionate about web development and emerging technologies.
+This is the personal portfolio website of Harsh Wardhan Nath Mishra , a BBA student passionate about finance and marketing roles in company.
 
 ## Features
 - About Me section
 - Contact information
 - Clean and responsive design
 
-## Tech Stack
-- HTML, CSS, JavaScript
+## skills
+- MS Excel, MS Powerpoint, MS Word, Canva, Tallyprime
 
 ## Connect with me
-- [GitHub](https://github.com/rounakmishra06)
-- Email: rounak@example.com
+- [GitHub]()
+- Email: harshwardhannathmishra@gmail.com
